@@ -1,2 +1,2 @@
 # 1st-website-
-this website is built for hands-on expereince on frontend development
+this website is going to be built by me for hands-on expereince on frontend development
